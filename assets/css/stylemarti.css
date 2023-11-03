@@ -1,0 +1,26 @@
+#hero {
+    background-image: url(../img/logos.jpg);
+
+}
+/* Estilo para el título de la página */
+.hero-title {
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #4e4e4e; /* Cambia el color a tu preferencia */
+    text-align: center; /* Alinea el texto al centro si lo deseas */
+  }
+  
+  /* Estilo para el subtítulo de la página */
+  .hero-subtitle {
+    font-size: 35px;
+    color: black; /* Cambia el color a tu preferencia */
+    text-align: center; /* Alinea el texto al centro si lo deseas */
+  }
+  
+  /* Estilo para el texto animado */
+  .typed {
+    font-weight: bold;
+    color: black; /* Cambia el color a tu preferencia */
+  }
+  
